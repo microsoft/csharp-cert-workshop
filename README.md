@@ -1,14 +1,22 @@
-# Project
+# CSharp Certs
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo has the following goals:
 
-As the maintainer of this project, please make a few updates:
+- Help you skill up on C#.
+- Prepare you for the [C# certification exam](https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification).
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Adding to the repo
+
+When adding materials to the repo, please follow the structure as laid out in *presentation-sample* directory:
+
+```text
+presentation-name/
+├── code.cs  // code samples
+├── presentation-name.pptx // presentation
+|── README.md // presentation notes
+|-- train-the-trainer.mp4 // optional video recording of the presentation
+```
+
 
 ## Contributing
 
